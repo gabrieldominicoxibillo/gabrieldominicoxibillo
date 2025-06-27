@@ -1,3 +1,30 @@
+# Hi, I’m Gab 👋  
+🎨 Artist • 💻 Developer
+
+Hey there! I’m Gabriel Dominic Oxibillo, but most people just call me Gab. I’m someone who’s been blending art and tech for over 7 years now, whether it’s designing visuals, writing code, or building creative tools. I’m all about making things that look good *and* work well.
+
+---
+
+## 💡 What I Do
+
+I’m a mix of both, not just a developer, not just a designer. I’ve done everything from sketching medical illustrations to coding web apps, animating in 3D, and even building AI tools and hardware projects. I love solving problems in creative ways.
+
+Here’s what I’m into lately:
+
+- 🎨 **Digital Art & Design** – Logos, 3D models, layouts — you name it  
+- 💻 **Full-Stack Development** – Clean, responsive, user-friendly builds  
+- 🤖 **AI & Automation** – Automating the boring stuff, exploring the smart stuff  
+- 🎬 **Video & Animation** – Motion that tells a story  
+- 🛠️ **Hardware Projects** – Like my DIY cashless vending machine (yep, it works!)
+
+---
+
+## 🚀 What I’m Working On Now
+
+- Experimenting with **AI and automation** in real-world apps  
+- Sharing what I know through **tutorials and creative content**  
+- Designing **web experiences** that feel fresh, useful, and fun
+- Building **Gab Suites** – my personal creative lab where design, development, and automation come together under one brand
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gabsuites) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabsuites) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabsuites) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldominicoxibillo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gabsuites) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabsuites) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gabsuites) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieldominicoxibillo@gmail.com) 
