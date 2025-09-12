@@ -8,6 +8,7 @@ I’m both a designer and a developer. Over the years, I’ve worked on:
 - AI and automation – tools that save time  
 - Video and animation – motion with purpose  
 - Hardware projects – like a DIY cashless vending machine and Mikrotik Hotspot Management
+- **Minecraft Modding with Java**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gabsuites) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabsuites) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabsuites) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldominicoxibillo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gabsuites) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabsuites) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gabsuites) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieldominicoxibillo@gmail.com) 
@@ -18,7 +19,7 @@ I’m both a designer and a developer. Over the years, I’ve worked on:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gabrieldominicoxibillo&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by Donating (For Minecraft Java Mods)
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gabsuites) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabsuites) 
 
   
