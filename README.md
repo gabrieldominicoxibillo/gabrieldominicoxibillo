@@ -7,16 +7,7 @@ I’m both a designer and a developer. Over the years, I’ve worked on:
 - Full-stack development – responsive, user-friendly apps  
 - AI and automation – tools that save time  
 - Video and animation – motion with purpose  
-- Hardware projects – like a DIY cashless vending machine  
-
----
-
-## What I’m Working On  
-- Applying AI and automation in real-world apps  
-- Creating tutorials and content to share what I learn  
-- Designing web experiences that are simple and useful  
-- Building **Gab Suites** – my own space for design, dev, and automation projects  
-
+- Hardware projects – like a DIY cashless vending machine and Mikrotik Hotspot Management
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gabsuites) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gabsuites) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabsuites) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldominicoxibillo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gabsuites) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabsuites) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gabsuites) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrieldominicoxibillo@gmail.com) 
