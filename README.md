@@ -7,7 +7,7 @@ I’m both a designer and a developer. Over the years, I’ve worked on:
 - Full-stack development – responsive, user-friendly apps (e-commerce, SaaS, etc.)
 - AI and automation – tools that save time  
 - Video and animation – motion graphics
-- Hardware projects – like a DIY cashless vending machine and Mikrotik Hotspot Management
+- Hardware projects – like a cashless vending machine and Mikrotik Hotspot Management
 - **Minecraft Modding with Java**
 
 ## 🌐 Socials:
